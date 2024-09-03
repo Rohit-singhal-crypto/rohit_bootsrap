@@ -1,0 +1,69 @@
+img{
+    
+    width: 100%;
+    height: 500px;
+}
+.card-img-top{
+    height: 200px;
+}
+
+
+.main{
+    width: 100%;
+}
+.p1{
+    color:#274e13;
+   
+}
+.p2{
+    color:#20124d;  
+}
+.p3{
+    color:#fff;  
+}
+
+ li a{
+text-decoration: none;
+color:#fff;
+font-size: 16px;
+font-weight: 600;
+}
+
+ .carousel-indicators [data-bs-target] {
+    width: 9px !important;
+    height: 9px !important;
+    border-radius: 100% !important;
+    background-color: blue!important;
+}
+ .carousel-control-prev{
+    left: 82% !important;
+    display: flex !important;
+    align-items: end !important;
+    justify-content: end !important;
+    text-align:  center !important;
+}
+.carousel-control-next{
+    right: 90px !important;
+    display: flex !important;
+    align-items: end !important;
+    justify-content: end !important;
+}
+.carousel-control-prev-icon{
+    background-image:url('assets/img/bx-chevrons-right.svg') !important;
+    display: inline-block  !important;
+    width: 2rem  !important;
+    height: 2rem  !important;
+    background-repeat: no-repeat  !important;
+    background-position: 50%  !important;
+    background-size: 100% 100%  !important;
+}
+.carousel-control-next-icon {
+    background-image: url('assets/img/bx-chevrons-left.svg') !important;
+} 
+.modal-header{
+display: block !important;
+}
+
+
+
+
